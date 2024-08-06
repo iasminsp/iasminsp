@@ -5,5 +5,4 @@
 - 🤔 Estou querendo estudar e me aprufundar mais na linguagem Java.
 - 💬 Ate agora gostei da area de desenvolvimento e aplicativos.
 
-*![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=iasminsp&layout=compact)*
 
